@@ -1,0 +1,179 @@
+{
+  "name": "Vishnu Chauhan",
+  "title": "Full Stack Developer | ASP.NET MVC Developer | Angular Developer",
+  "location": "Surat, Gujarat, India",
+  "email": "vishnu.chauhan3338@gmail.com",
+  "githubUsername": "",
+  "typingRoles": [
+    "ASP.NET MVC Developer",
+    "Angular Developer",
+    "Android (Kotlin) Developer",
+    "Full Stack Developer"
+  ],
+  "projectFolders": [
+    "hrms",
+    "dog-registry",
+    "urban-company",
+    "diz-admin",
+    "elighthub",
+    "tunix",
+    "driving-school"
+  ],
+  "skills": {
+    "Core Stack": [
+      {
+        "name": "ASP.NET MVC",
+        "description": "Developing structured web applications, dashboards, and business workflow modules."
+      },
+      {
+        "name": "C#",
+        "description": "Writing application logic for ASP.NET MVC projects and backend workflows."
+      },
+      {
+        "name": "SQL Server",
+        "description": "Working with relational data models, CRUD operations, and reporting needs."
+      },
+      {
+        "name": "Angular",
+        "description": "Building responsive application screens and admin dashboard interfaces."
+      },
+      {
+        "name": "Firebase",
+        "description": "Integrating Firebase for admin dashboards, user management, and data operations."
+      },
+      {
+        "name": "Android (Kotlin)",
+        "description": "Developing native Android applications with local storage and media features."
+      },
+      {
+        "name": "PHP",
+        "description": "Building Core PHP and MySQL-based web applications."
+      },
+      {
+        "name": "MySQL",
+        "description": "Designing and managing database-backed PHP applications."
+      },
+      {
+        "name": "Bootstrap",
+        "description": "Creating clean, mobile-first layouts with reusable UI patterns."
+      },
+      {
+        "name": "JavaScript",
+        "description": "Adding dynamic interactions and client-side behavior for static and MVC applications."
+      },
+      {
+        "name": "Git",
+        "description": "Version control for collaborative and personal development workflows."
+      },
+      {
+        "name": "GitHub",
+        "description": "Repository management, portfolio hosting, and code organization."
+      },
+      {
+        "name": "Visual Studio",
+        "description": "Primary IDE for ASP.NET MVC and SQL Server-backed projects."
+      },
+      {
+        "name": "VS Code",
+        "description": "Lightweight development environment for web and frontend work."
+      },
+      {
+        "name": "Responsive Email Templates",
+        "description": "Responsive HTML email layouts compatible with Gmail, Outlook, Yahoo Mail, and mobile devices."
+      }
+    ],
+    "Frontend Skills": [
+      {
+        "name": "Angular",
+        "description": "Building responsive application screens and admin dashboard interfaces."
+      },
+      {
+        "name": "Bootstrap",
+        "description": "Creating clean, mobile-first layouts with reusable UI patterns."
+      },
+      {
+        "name": "JavaScript",
+        "description": "Adding dynamic interactions and client-side behavior for static and MVC applications."
+      },
+      {
+        "name": "Responsive Email Template Development",
+        "description": "Experienced in designing and developing responsive HTML email templates compatible with Gmail, Outlook, Yahoo Mail, and mobile devices."
+      },
+      {
+        "name": "HTML Email Design",
+        "description": "Creating polished, table-safe HTML email layouts for marketing and transactional communication."
+      },
+      {
+        "name": "Cross-Client Email Compatibility",
+        "description": "Building email templates that remain stable across Gmail, Outlook, Yahoo Mail, and mobile email clients."
+      },
+      {
+        "name": "Pixel-Perfect UI Development",
+        "description": "Translating design requirements into precise, responsive frontend interfaces."
+      }
+    ],
+    "Backend & Database": [
+      {
+        "name": "ASP.NET MVC",
+        "description": "Developing structured web applications, dashboards, and business workflow modules."
+      },
+      {
+        "name": "C#",
+        "description": "Writing application logic for ASP.NET MVC projects and backend workflows."
+      },
+      {
+        "name": "SQL Server",
+        "description": "Working with relational data models, CRUD operations, and reporting needs."
+      },
+      {
+        "name": "MySQL",
+        "description": "Designing and managing database-backed PHP applications."
+      },
+      {
+        "name": "PHP",
+        "description": "Building Core PHP and MySQL-based web applications."
+      },
+      {
+        "name": "Firebase",
+        "description": "Integrating Firebase for admin dashboards, user management, and data operations."
+      }
+    ],
+    "Mobile": [
+      {
+        "name": "Android (Kotlin)",
+        "description": "Developing native Android applications with local storage and media features."
+      }
+    ],
+    "Tools": [
+      {
+        "name": "Git",
+        "description": "Version control for collaborative and personal development workflows."
+      },
+      {
+        "name": "GitHub",
+        "description": "Repository management, portfolio hosting, and code organization."
+      },
+      {
+        "name": "Visual Studio",
+        "description": "Primary IDE for ASP.NET MVC and SQL Server-backed projects."
+      },
+      {
+        "name": "VS Code",
+        "description": "Lightweight development environment for web and frontend work."
+      }
+    ]
+  },
+  "certificates": [
+    {
+      "title": "Certificate Placeholder",
+      "image": "certificates/images/certificate-1.png",
+      "document": "certificates/documents/certificate-1.pdf"
+    }
+  ],
+  "internshipGallery": [
+    {
+      "title": "Internship Work Placeholder",
+      "image": "gallery/internship/internship-1.png"
+    }
+  ]
+}

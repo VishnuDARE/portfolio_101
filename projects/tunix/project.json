@@ -1,0 +1,10 @@
+{
+  "name": "Tunix Music Player",
+  "slug": "tunix",
+  "category": "Android",
+  "type": "MCA Semester 3",
+  "summary": "A native Android music player application that allows users to play songs from device storage, create playlists, and manage favorite music.",
+  "technologies": ["Android", "Kotlin"],
+  "features": ["Local music playback", "Playlist creation", "Favorites management", "Media controls", "Music library browsing"],
+  "thumbnail": "projects/tunix/screenshots/screen1.png"
+}

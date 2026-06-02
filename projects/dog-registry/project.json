@@ -1,0 +1,29 @@
+{
+  "name": "Dog Registry Management System",
+  "slug": "dog-registry",
+  "category": "ASP.NET MVC",
+  "status": "Completed",
+  "type": "Web Application",
+  "featured": true,
+  "flagship": true,
+  "summary": "A centralized dog registration and management system designed to maintain dog ownership records, registration details, breed information, health records, vaccination details, and administrative management.",
+  "technologies": ["ASP.NET MVC", "SQL Server", "Bootstrap", "JavaScript"],
+  "features": [
+    "Dog Registration",
+    "Owner Registration",
+    "Breed Management",
+    "Vaccination Records",
+    "Health Information Tracking",
+    "Search and Filter Records",
+    "Administrative Dashboard",
+    "Record Management",
+    "Secure Authentication",
+    "Report Generation"
+  ],
+  "statistics": [
+    "Centralized ownership records",
+    "Secure administrative workflows",
+    "Searchable registration data"
+  ],
+  "thumbnail": "projects/dog-registry/screenshots/screen1.png"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Driving School Management System",
+  "slug": "driving-school",
+  "category": "PHP",
+  "type": "MCA Semester 2",
+  "summary": "A booking platform for students who want to learn driving and schedule car training sessions.",
+  "technologies": ["Core PHP", "MySQL"],
+  "features": ["Appointment booking", "Student registration", "Car scheduling", "Instructor management"],
+  "thumbnail": "projects/driving-school/screenshots/screen1.png"
+}

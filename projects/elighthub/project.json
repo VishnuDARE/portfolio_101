@@ -1,0 +1,10 @@
+{
+  "name": "ElightHub",
+  "slug": "elighthub",
+  "category": "ASP.NET MVC",
+  "type": "MCA Semester 1",
+  "summary": "An e-commerce platform for selling computer components and accessories.",
+  "technologies": ["ASP.NET MVC", "SQL Server"],
+  "features": ["Product catalog", "Shopping cart", "Order management", "Authentication", "Admin panel"],
+  "thumbnail": "projects/elighthub/screenshots/screen1.png"
+}

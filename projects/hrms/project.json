@@ -1,0 +1,11 @@
+{
+  "name": "HRMS",
+  "slug": "hrms",
+  "category": "ASP.NET MVC",
+  "type": "MCA Semester 4",
+  "flagship": true,
+  "summary": "A Human Resource Management System for managing employees, hiring workflows, complaints, attendance, and workforce operations.",
+  "technologies": ["ASP.NET MVC", "SQL Server"],
+  "features": ["Employee management", "Recruitment process", "Attendance tracking", "Complaint management", "Login/Logout monitoring", "Reporting dashboard"],
+  "thumbnail": "projects/hrms/screenshots/screen1.png"
+}

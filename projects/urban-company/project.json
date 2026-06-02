@@ -1,0 +1,10 @@
+{
+  "name": "Urban Company Management System",
+  "slug": "urban-company",
+  "category": "PHP",
+  "type": "BCA Major Project",
+  "summary": "A web platform where service providers can publish services after administrator approval. The system helps manage vendors, services, and customer bookings.",
+  "technologies": ["ASP.NET", "SQL Server"],
+  "features": ["Vendor management", "Service publishing", "Admin approval workflow", "Customer bookings", "Service listings"],
+  "thumbnail": "projects/urban-company/screenshots/screen1.png"
+}

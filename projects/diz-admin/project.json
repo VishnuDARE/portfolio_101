@@ -1,0 +1,20 @@
+{
+  "name": "Diz Admin Panel",
+  "slug": "diz-admin",
+  "category": "Angular",
+  "type": "Professional Experience",
+  "featured": true,
+  "summary": "A centralized administration panel for managing users, content, and application data through Firebase integration, built during internship at Codex Software Solutions.",
+  "technologies": ["Angular", "Firebase", "TypeScript", "Bootstrap"],
+  "features": [
+    "User Management",
+    "Content Management",
+    "Dashboard Analytics",
+    "Firebase Integration",
+    "Authentication Management",
+    "Data Monitoring",
+    "Administrative Controls"
+  ],
+  "thumbnail": "projects/diz-admin/screenshots/screen1.png",
+  "github": "https://github.com/"
+}
